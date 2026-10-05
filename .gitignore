@@ -1,0 +1,5 @@
+# shared course data (downloaded by students), QGIS/Jupyter temp files
+/data/
+.ipynb_checkpoints/
+*.qgz~
+*.qgd
