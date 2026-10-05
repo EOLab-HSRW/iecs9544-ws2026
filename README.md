@@ -54,7 +54,7 @@ Each session lists the competences it introduces or practices. The competence ta
 
 | # | Date | Topic | Competences | Homework / milestone | Material |
 |---|---|---|---|---|---|
-| 1 | 2026-10-05 | Kickoff and first pipeline: DWD station list from the web, pandas, GeoPandas, GeoPackage, web map. JupyterHub and git. | Introduced: C1.2, C2.1, C3.1, C3.2, C7.1 | Filter stations by state, status and start year; annotated map | [s01_2026-10-05](s01_2026-10-05/): Untitled.ipynb, geo0641_DWD_Station_Pipeline.ipynb |
+| 1 | 2026-10-05 | Kickoff and first pipeline: DWD station list from the web, pandas, GeoPandas, GeoPackage, web map. JupyterHub and git. | Introduced: C1.2, C2.1, C3.1, C3.2, C7.1 | Filter stations by state, status and start year; annotated map | [s01_2026-10-05](s01_2026-10-05/): geo0641_DWD_Station_Pipeline.ipynb |
 | 2 | 2026-10-12 | Coordinate reference systems in code (pyproj, reprojection, distance errors) and georeferencing | Practiced: C1.1, C5.1<br>Introduced: C3.1 | Georeference the Castra Vetera map | [s02_2026-10-12](s02_2026-10-12/): geo0221_CRS_in_Code.ipynb, geo0241_Georeferencing_Castra_Vetera.md, geo0241_Georeferencing_Castra_Vetera.qgz |
 | 3 | 2026-10-19 | GNSS and RTK positioning (Emlid, SAPOS), accuracy, flight planning, ground control points | Practiced: C1.1<br>Introduced: C4.1, C5.1 | Mission plan | – |
 | 4 | 2026-10-26 | Drone field day at Frohnenbruchhof: thermal and multispectral flights, ground control points | Practiced: C4.1, C5.1 | Organise the data and write a metadata log | – |
