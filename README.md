@@ -28,7 +28,7 @@ Retrieval quiz on the last session, two homework presentations, short input, liv
 3. **Released notebooks do not change silently.** Corrections come as a new file (`..._fix1.ipynb`) or as an entry in `errata.md`.
 4. **Data are provided, not downloaded by hand.** Shared data are on the hub (read-only under `/srv/data`). Notebooks that download data write to a folder outside this repository.
 5. **Solutions** are published after the homework deadline, not in this repository.
-6. **Working on a laptop?** `git clone` this repository and `git pull` for updates. Copy a notebook before editing it, otherwise `git pull` can stop with a conflict.
+6. **Working on a laptop (QGIS)?** Clone this repository once (`git clone https://github.com/EOLab-HSRW/iecs9544-ws2026`, or *File → Clone repository* in GitHub Desktop) and `git pull` for updates. The clone is your working folder; there is no need to copy anything out. Never save over a released file: use *Save As…* and add `_mine` or `_my` to the name (e.g. `geo0241_Georeferencing_Castra_Vetera_mine.qgz`). Git ignores these names, and files you create under new names are left alone too, so `git pull` always works. Large open data you download yourself go once into `data/` at the top of the clone (ignored by git; QGIS projects use `../data/`).
 
 ## Project and assessment
 

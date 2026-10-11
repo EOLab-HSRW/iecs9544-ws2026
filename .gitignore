@@ -3,3 +3,6 @@
 .ipynb_checkpoints/
 *.qgz~
 *.qgd
+# course data, QGIS/Jupyter temp files, your own copies (*_mine.*, *_my.*)
+*_mine.*
+*_my.*
