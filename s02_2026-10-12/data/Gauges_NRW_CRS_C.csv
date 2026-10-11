@@ -1,0 +1,255 @@
+latitude;longitude;station_no;name;catchment
+51.7447846;7.9189346;3211000000300;Ahlen;Emseinzugsgebiet
+52.0910036;8.7014940;4639000000100;Ahmsen;Weserzuflüsse
+51.8839138;7.7281574;3259000000100;Albersloh;Emseinzugsgebiet
+51.2894597;7.6761077;2766930000100;Altena;Ruhreinzugsgebiet
+51.2862331;7.6770609;2766929300099;Altena_Rahmedestrasse;Ruhreinzugsgebiet
+51.7611290;8.9182645;2781610000200;Altenbeken2;Lippeeinzugsgebiet
+50.8975923;6.3734955;2823900000200;Altenburg_1;Rureinzugsgebiet
+51.2989341;7.3628934;2768879100100;Altenvoerde;Ruhreinzugsgebiet
+52.0809964;6.7744203;9284730000100;Ammeloe;IJssel-, Berkel- und Vechteeinzugsgebiet
+51.8854798;7.4455474;2788100000100;Appelhuelsen;Lippeeinzugsgebiet
+50.5955256;6.7922425;2741500000100;Arloff;Erfteinzugsgebiet
+51.0499142;8.3171402;4281334000100;Aue;Edereinzugsgebiet
+51.9104865;8.4967376;3125000000100;Avenwedde;Emseinzugsgebiet
+51.4698835;7.9436002;2763190000100;Bachum;Ruhreinzugsgebiet
+51.1357598;6.2916893;2842000000100;Baltes;Niers- und Schwalmeinzugsgebiet
+51.3100005;7.8417351;2764190000100;Balve-Garbeck;Ruhreinzugsgebiet
+51.3447822;7.8786069;2764511000100;Balve_Helle;Ruhreinzugsgebiet
+50.9993636;8.4877325;4281591000100;Beddelhausen;Edereinzugsgebiet
+51.9293411;8.1023723;3147110000100;Beelen;Emseinzugsgebiet
+51.4906934;8.3252578;2762510000300;Belecke3;Ruhreinzugsgebiet
+51.4883647;8.3268477;2762510000100;Belecke_1;Ruhreinzugsgebiet
+51.7686280;9.1836930;4528199000100;Bellersen;Weserzuflüsse
+51.7488430;8.6305297;2783390000100;Bentfeld;Lippeeinzugsgebiet
+50.7179101;6.6554014;2746310000100;Bessenich;Erfteinzugsgebiet
+52.3703167;9.0415084;4745000000100;Bierde;Weserzuflüsse
+52.2427635;7.2944274;9286190000100;Bilk;IJssel-, Berkel- und Vechteeinzugsgebiet
+50.7791176;6.8257663;2743000000100;Bliesheim;Erfteinzugsgebiet
+50.7744741;6.8353010;2745400000100;Bliesheim_2;Erfteinzugsgebiet
+51.9248306;9.1057798;4566900000100;Blomberg;Weserzuflüsse
+51.6354095;8.3880781;2785229000100;Boekenfoerde_2;Lippeeinzugsgebiet
+52.0705435;8.6184409;4647000000100;Brake;Weserzuflüsse
+51.7133968;9.1906856;4528900000100;Brakel;Weserzuflüsse
+51.4097737;8.7653188;4427000000100;Bredelar;Diemeleinzugsgebiet
+51.9838690;8.3075360;3134510000100;Brockhagen;Emseinzugsgebiet
+50.7860436;7.3199415;2726900000100;Broel;Siegeinzugsgebiet Westlich
+50.8412770;7.4160223;2726599000100;Broeleck;Siegeinzugsgebiet Westlich
+51.2197117;7.1052323;2736510000300;Buchenhofen;Wuppereinzugsgebiet
+51.5494984;8.5643763;2782490000200;Bueren;Lippeeinzugsgebiet
+50.6380691;6.7180461;2741870000100;Burg_Veynau;Erfteinzugsgebiet
+51.6952066;8.2970308;2784700000100;Cappel;Lippeeinzugsgebiet
+51.7383605;6.7651849;9281330000100;Daemmerwald;IJssel-, Berkel- und Vechteeinzugsgebiet
+51.0077865;7.6261422;2728189000100;Derschlag;Siegeinzugsgebiet Westlich
+51.1180202;7.4416831;2736135100100;Egerpohl;Wuppereinzugsgebiet
+51.2238192;6.9762087;2739230000100;Eigen;Rheingraben-Nord
+51.9726288;7.8983627;3171000000100;Einen;Emseinzugsgebiet
+50.7769821;7.4426921;2725910000100;Eitorf;Siegeinzugsgebiet Westlich
+51.2852166;8.0339529;2761829000100;Endorf;Ruhreinzugsgebiet
+51.2261440;6.9170248;2739229000100;Erkrath;Rheingraben-Nord
+50.8149497;6.2878522;2824590000400;Eschweiler;Rureinzugsgebiet
+51.8307635;8.5951762;3111900000300;Espeln;Emseinzugsgebiet
+51.3682418;7.0439518;2769720000200;Essen-Hespertal;Ruhreinzugsgebiet
+51.3591022;6.9322855;2769800000200;Essen-Kettwig;Ruhreinzugsgebiet
+51.3961467;7.0476923;2769720000300;Essen-Poertingsiepen;Ruhreinzugsgebiet
+50.9387718;8.3250650;2581119000100;Feudingen;Lahneinzugsgebiet
+52.3534238;8.5583366;4761500000100;Fiestel;Weserzuflüsse
+50.7552193;6.7728388;2744910000100;Friesheim;Erfteinzugsgebiet
+50.7659872;7.3000406;2727290000100;Geisbach;Siegeinzugsgebiet Östlich
+51.5236970;6.3293194;2864900000100;Geldern;Niers- und Schwalmeinzugsgebiet
+51.5157151;6.3145643;2863700000100;Geldern Burgstraße;Niers- und Schwalmeinzugsgebiet
+50.5777082;6.4912242;2822900000200;Gemuend;Rureinzugsgebiet
+51.9385489;7.0722536;9284300000010;Gescher;IJssel-, Berkel- und Vechteeinzugsgebiet
+50.9744193;6.5957897;2747390000100;Glesch;Erfteinzugsgebiet
+51.1337034;7.1216059;2736731000100;Glueder;Wuppereinzugsgebiet
+51.6839561;6.1506241;2869500000200;Goch;Niers- und Schwalmeinzugsgebiet
+52.0943313;7.6027924;3331000000100;Greven;Emseinzugsgebiet
+52.2179431;7.0246708;9286455000200;Gronau;IJssel-, Berkel- und Vechteeinzugsgebiet
+50.7946794;6.1292325;2828200000200;Haaren;Rureinzugsgebiet
+52.1318985;6.8735692;9285291000100;Haarmuehle;IJssel-, Berkel- und Vechteeinzugsgebiet
+51.3234137;7.5168837;2768775000100;Hagen-Ambrock;Ruhreinzugsgebiet
+51.3852064;7.4498408;2768900000100;Hagen-Eckesey;Ruhreinzugsgebiet
+51.3480187;7.4186712;2768897000100;Hagen-Haspe;Ruhreinzugsgebiet
+51.3211640;7.4816801;2768784000200;Hagen-Maecking2;Ruhreinzugsgebiet
+51.7310886;7.1865653;2789100000100;Haltern;Lippeeinzugsgebiet
+52.0327109;7.6921592;3190000000100;Haskenau;Emseinzugsgebiet
+51.2962668;7.4311245;2768898001;Haspertalsperre_Zu;Ruhreinzugsgebiet
+51.3906489;6.3364168;2862790000100;Haus_Langenfeld;Niers- und Schwalmeinzugsgebiet
+52.1172425;7.1168584;9286453000200;Heek;IJssel-, Berkel- und Vechteeinzugsgebiet
+50.4826219;6.4330228;2822849000100;Hellenthal;Rureinzugsgebiet
+51.4006980;7.7884392;2764890000100;Hemer-Becke;Ruhreinzugsgebiet
+51.6703950;8.9157817;2782846000100;Herbram_W;Lippeeinzugsgebiet
+52.1333770;8.6709680;4651000000100;Herford_2;Weserzuflüsse
+51.0874564;8.1054729;2766250000100;Herrntrop;Ruhreinzugsgebiet
+50.8665180;6.0948434;2828300000200;Herzogenrath_1;Rureinzugsgebiet
+50.8665965;6.0978408;2828400000200;Herzogenrath_2;Rureinzugsgebiet
+51.1596720;6.9245404;2738900000300;Hilden_1;Rheingraben-Nord
+51.8109850;9.0274330;4561310000100;Himmighausen;Weserzuflüsse
+52.3202965;7.5880700;3448390000200;Hoerstel;Emseinzugsgebiet
+50.9107249;7.1931755;2728893000100;Hoffnungsthal;Siegeinzugsgebiet Westlich
+51.0087911;7.2802444;2728849000100;Hommerich;Siegeinzugsgebiet Westlich
+51.0047734;6.1817056;2828890000200;Honsdorf;Rureinzugsgebiet
+52.3736120;7.5995904;3445900000100;Hopsten;Emseinzugsgebiet
+51.6596913;8.1441578;2785710000100;Hovestadt;Lippeeinzugsgebiet
+51.4009262;7.7006234;2765419000100;Iserlohn;Ruhreinzugsgebiet
+51.4479554;7.6621743;2765490000100;Iserlohn-Hennen;Ruhreinzugsgebiet
+51.8325726;6.4722898;9281700000200;Isselburg;IJssel-, Berkel- und Vechteeinzugsgebiet
+51.1676848;7.6163951;2768529000200;Jubachtalsperre_Zulauf;Ruhreinzugsgebiet
+50.9248840;6.3493473;2825190000200;Juelich-Stadion;Rureinzugsgebiet
+51.2166931;6.6382629;2751270000100;Kaarst;Rheingraben-Nord
+50.7825660;6.1117910;2828100000100;Kalkofen;Rureinzugsgebiet
+50.5449291;6.5537173;2822700000200;Kall-Sportplatz;Rureinzugsgebiet
+51.5700787;6.3595206;2866500000200;Kapellen;Niers- und Schwalmeinzugsgebiet
+51.8591683;8.5599313;3128100000100;Kaunitz;Emseinzugsgebiet
+51.6629750;8.0893846;2785790000300;Kesseler_3;Lippeeinzugsgebiet
+51.1088738;8.1004026;2766199000100;Kickenbach;Ruhreinzugsgebiet
+51.1398952;7.6149336;2768390000100;Kierspe;Ruhreinzugsgebiet
+50.8920485;6.3586192;2824900000200;Kirchberg1;Rureinzugsgebiet
+50.8923232;6.3595779;2825320000100;Kirchberg2;Rureinzugsgebiet
+51.2556908;7.1585865;2736510000100;Kluserbruecke;Wuppereinzugsgebiet
+50.7281514;6.1833081;2824300000100;KornelimuensterW;Rureinzugsgebiet
+51.7766264;5.9847471;2799222000100;Kranenburg;Rheingraben-Nord
+50.9587463;7.9951598;2721459000100;Kreuztal;Siegeinzugsgebiet Östlich
+50.8522702;6.3544739;2824900000300;Lamersdorf;Rureinzugsgebiet
+51.2283158;6.0878507;2849900000100;Landesgrenze;Niers- und Schwalmeinzugsgebiet
+51.3546158;7.1218754;2769630000200;Langenberg_2;Ruhreinzugsgebiet
+50.8643018;6.6729199;2746790000100;Langenich;Erfteinzugsgebiet
+52.0398444;7.0820708;9286410000100;Legden;IJssel-, Berkel- und Vechteeinzugsgebiet
+52.2613582;7.7392734;3448310000600;Lehen_2;Emseinzugsgebiet
+51.7148997;7.2975661;2787990000100;Leven;Lippeeinzugsgebiet
+52.0297312;8.8502376;4624900000100;Liemergrund;Weserzuflüsse
+51.7142917;8.2640652;2784651000100;Liesborn;Lippeeinzugsgebiet
+52.0533447;8.7716019;4627100000200;Lindemannsheide_neu;Weserzuflüsse
+51.7908931;7.8163540;3215510000100;Linnenkamp;Emseinzugsgebiet
+50.9807262;6.2748927;2825330000100;Linnich;Rureinzugsgebiet
+51.7805060;8.8214704;2781100000100;Lippspringe1;Lippeeinzugsgebiet
+51.6768667;8.3345856;2783970000200;Lippstadt-Nordumflut;Lippeeinzugsgebiet
+51.6722784;8.3325414;2783990000100;Lippstadt2;Lippeeinzugsgebiet
+51.6739264;8.3361761;2783970000300;Lippstadt_1;Lippeeinzugsgebiet
+52.1978838;8.7101647;4670000000100;Loehne;Weserzuflüsse
+50.8415732;7.2013312;2728930000200;Lohmar;Siegeinzugsgebiet Westlich
+51.5895069;8.1840483;2786110000100;Lohne;Lippeeinzugsgebiet
+50.8301545;6.3716744;2824890000300;Luchem;Rureinzugsgebiet
+51.9840256;7.2213749;9284100000100;Lutum;IJssel-, Berkel- und Vechteeinzugsgebiet
+51.0382527;7.0073725;2736879000200;Manfort;Wuppereinzugsgebiet
+51.6990638;6.3831034;2796300000100;Marienbaum;Rheingraben-Nord
+51.9483731;8.2554092;3132900000100;Marienfeld_W;Emseinzugsgebiet
+50.6158410;7.0321110;2742310000100;Meckenheim;Erfteinzugsgebiet
+51.1692893;8.6716817;4284170000100;Medelon_W;Edereinzugsgebiet
+50.7978983;7.1591442;2729100000100;Menden_1;Siegeinzugsgebiet Westlich
+51.3989037;7.8422222;2764590000100;Menden_Oberroedingh;Ruhreinzugsgebiet
+51.4471458;7.7774246;2764950000100;Menden_Sauerland;Ruhreinzugsgebiet
+51.3478663;8.2802168;2761510000100;Meschede;Ruhreinzugsgebiet
+51.3410906;8.2838548;2761490000200;Meschede4;Ruhreinzugsgebiet
+51.9944892;7.9498099;3169000000100;Milte;Emseinzugsgebiet
+50.5710121;6.7590972;2741490000200;Moeschemer-Muehle;Erfteinzugsgebiet
+51.1618744;6.2732801;2843000000100;Molzmuehle;Niers- und Schwalmeinzugsgebiet
+50.5545463;6.2456207;2821530000200;Monschau;Rureinzugsgebiet
+50.6647275;6.9527572;2742510000100;Morenhoven;Erfteinzugsgebiet
+50.8612855;7.7406766;2723830000200;Morsbach;Siegeinzugsgebiet Östlich
+51.4075705;7.9918948;2761895000100;Mueschede;Ruhreinzugsgebiet
+51.0495233;8.2839523;4281319000100;Muesse;Edereinzugsgebiet
+50.6908158;6.2100627;2824450000100;Mulartshuette;Rureinzugsgebiet
+51.4905190;8.5937460;2782330000100;Multhaeupter Hammer;Lippeeinzugsgebiet
+51.4554531;7.9538502;2761990000200;Neheim3;Ruhreinzugsgebiet
+50.4903168;6.6347824;2822291000100;Nettersheim Genfbach;Rureinzugsgebiet
+50.4926072;6.6301982;2822190000100;Nettersheim Urft;Rureinzugsgebiet
+51.1321659;6.6488262;2747900000200;Neubrueck;Erfteinzugsgebiet
+51.7448905;8.7312429;2781730000200;Neuhaus1;Lippeeinzugsgebiet
+51.7341207;8.7093537;2782900000200;Neuhaus2;Lippeeinzugsgebiet
+51.7658179;8.7178303;2783250000100;Neuhaus3;Lippeeinzugsgebiet
+51.3206715;7.0838518;2769629000100;Neviges;Ruhreinzugsgebiet
+51.4600222;8.6244459;2782190000100;Niederalme;Lippeeinzugsgebiet
+50.8631685;8.0801017;2721650000100;Niederdielfen;Siegeinzugsgebiet Östlich
+52.4110737;8.4440285;4761270000100;Niedermehnen;Weserzuflüsse
+51.6410221;8.6812635;2782700000100;Niederntudorf;Lippeeinzugsgebiet
+50.7735052;7.2157163;2727890000100;Niederpleis;Siegeinzugsgebiet Östlich
+50.8450973;7.9667513;2721770000200;Niederschelden;Siegeinzugsgebiet Östlich
+51.3658732;7.1420589;2769649000100;Nierenhof;Ruhreinzugsgebiet
+51.6298210;9.1380020;4523100000100;Niesen;Weserzuflüsse
+51.6633799;8.7183370;2782890000100;Nordborchen;Lippeeinzugsgebiet
+50.9867575;7.6646341;2728219000100;Oberagger;Siegeinzugsgebiet Östlich
+52.1886837;8.5142997;4667100000100;Oberahle;Weserzuflüsse
+51.1585995;8.3744442;2766133000100;Oberkirchen;Ruhreinzugsgebiet
+50.9014356;8.1152996;2721330000100;Obernetphen;Siegeinzugsgebiet Östlich
+51.0600640;7.1342710;2736851000100;Odenthal;Wuppereinzugsgebiet
+51.3219542;6.3719219;2861700000100;Oedt;Niers- und Schwalmeinzugsgebiet
+51.1604785;7.7968740;2766645000100;Oestertalsperre_Zu;Ruhreinzugsgebiet
+51.6317135;8.0990845;2786330000100;Oestinghausen;Lippeeinzugsgebiet
+51.3972708;8.1306359;2761759000100;Oeventrop;Ruhreinzugsgebiet
+51.7215549;7.3503647;2788730000100;Olfen-Fuecht.Muehle;Lippeeinzugsgebiet
+51.3514046;8.4880240;2761150000100;Olsberg;Ruhreinzugsgebiet
+51.0706797;6.9945315;2736790000200;Opladen;Wuppereinzugsgebiet
+51.7084416;9.3215692;4529500000100;Ottbergen;Weserzuflüsse
+51.6489202;8.3265971;2785290000200;Overhagen;Lippeeinzugsgebiet
+51.7224807;8.7501527;2781810000100;Paderborn1;Lippeeinzugsgebiet
+51.7269007;8.7442066;2781829000100;Paderborn2;Lippeeinzugsgebiet
+51.1994487;6.2298589;2847500000100;Pannenmuehle;Niers- und Schwalmeinzugsgebiet
+52.0166987;8.7503158;4619100000100;Pottenhausen;Weserzuflüsse
+51.0150088;6.1792418;2828900000200;Randerath;Rureinzugsgebiet
+51.3038183;6.8124185;2756500000100;Ratingen;Rheingraben-Nord
+51.0314458;8.3862686;4281490000100;Raumland;Edereinzugsgebiet
+50.4737229;6.4756350;2822867000200;Reifferscheid2;Rureinzugsgebiet
+51.2005830;7.1851070;2736633000100;Remscheid;Wuppereinzugsgebiet
+51.8524978;8.2961217;3119000000200;Rheda;Emseinzugsgebiet
+51.8277002;6.7522012;9282570000100;Rhedebruegge;IJssel-, Berkel- und Vechteeinzugsgebiet
+52.2822177;8.8782433;4714900000100;Rodenbeck;Weserzuflüsse
+51.2162469;7.9545975;2766530000100;Roenkhausen;Ruhreinzugsgebiet
+50.6499003;6.1910212;2824410000100;Roetgen_W;Rureinzugsgebiet
+51.9537342;7.5627966;3323000000200;Roxeler;Emseinzugsgebiet
+50.6154871;6.3539185;2823100000100;RurbergVA;Rureinzugsgebiet
+51.7064758;9.1345468;4526900000100;Rustenhof;Weserzuflüsse
+51.7616259;8.6851676;2783310000100;Sande2;Lippeeinzugsgebiet
+51.3107670;6.2525324;2862500000100;Sassenfeld;Niers- und Schwalmeinzugsgebiet
+51.6895703;6.8670356;2789760000100;Schermbeck2;Lippeeinzugsgebiet
+51.6738664;6.8511256;2789770000100;Schermbeck_1;Lippeeinzugsgebiet
+51.9140447;9.1448491;4568900000100;Schieder;Weserzuflüsse
+51.9110050;9.1300108;4567000000100;Schieder-Nessenberg;Weserzuflüsse
+51.9349602;9.1933383;4569300000100;Schieder-Stausee;Weserzuflüsse
+50.5248973;6.4686993;2822870000100;Schleiden;Rureinzugsgebiet
+51.7166075;8.9238744;2782861000100;Schwaney;Lippeeinzugsgebiet
+52.0959944;7.2192500;9286139100100;Schöppingen;IJssel-, Berkel- und Vechteeinzugsgebiet
+50.8596458;6.4335638;2823900000100;Selhausen;Rureinzugsgebiet
+51.7078278;7.4916381;2788630000200;Selm-Ondrup;Lippeeinzugsgebiet
+51.8399512;7.4657060;2788330000100;Senden-Schoelling;Lippeeinzugsgebiet
+51.8335220;7.8812967;3283000000100;Sendenhorst;Emseinzugsgebiet
+51.2563702;8.4705367;2761145000400;Siedlinghausen4;Ruhreinzugsgebiet
+51.7865710;8.6516500;2784133000100;Siedlingsheide1;Lippeeinzugsgebiet
+51.7881060;8.6470660;2784149100100;Siedlingsheide2;Lippeeinzugsgebiet
+50.7976514;7.2572275;2727500000100;Siegburg_Kald.;Siegeinzugsgebiet Westlich
+51.5758988;8.1011121;1234512345;Soestbach;Lippeeinzugsgebiet
+51.9947733;6.9103474;9284590000200;Stadtlohn Schanzring;IJssel-, Berkel- und Vechteeinzugsgebiet
+51.0978936;6.1045126;2829100000100;Stah;Rureinzugsgebiet
+51.8183169;8.5337449;3113000000100;Steinhorst;Emseinzugsgebiet
+51.2229829;7.5652108;2768579000100;Stephansohl;Ruhreinzugsgebiet
+51.6316734;7.9323324;2786690000100;Sueddinker;Lippeeinzugsgebiet
+50.9965429;5.9300615;2818100000200;Suesterseel;Rureinzugsgebiet
+51.9454080;6.9007070;9283215500100;Südlohn;IJssel-, Berkel- und Vechteeinzugsgebiet
+52.1598674;9.0991730;4589000000100;Uchtdorf;Weserzuflüsse
+51.6565079;8.6024408;2783721000100;Upsprunge;Lippeeinzugsgebiet
+51.5187132;6.3099909;2850000000200;Veert;Niers- und Schwalmeinzugsgebiet
+51.8873644;8.4996113;3128490000100;Verl;Emseinzugsgebiet
+52.0119786;8.1607368;3166000000100;Versmold_W;Emseinzugsgebiet
+51.4359891;7.5810969;2765590000100;Villigst;Ruhreinzugsgebiet
+51.8532330;9.0244370;4564310000100;Vinsebeck;Weserzuflüsse
+52.0162114;8.9596308;4621900000100;Vossheide;Weserzuflüsse
+52.0103935;8.9590294;4622900000100;Vossheide_1;Weserzuflüsse
+51.9551584;8.0139745;3153900000100;Warendorf;Emseinzugsgebiet
+51.1540941;6.6890273;2748900000100;Weckhoven;Erfteinzugsgebiet
+51.6264332;6.2125255;2867900000100;Weeze;Niers- und Schwalmeinzugsgebiet
+50.8940196;8.0264280;2721390000100;Weidenau;Siegeinzugsgebiet Östlich
+50.8956652;8.0231800;2721490000100;Weidenau2;Siegeinzugsgebiet Östlich
+50.7660742;6.8460133;2742990000200;Weilerswist;Erfteinzugsgebiet
+51.5420202;8.5257014;2782370000100;Weine;Lippeeinzugsgebiet
+51.4536431;9.1154525;4449900000100;Welda;Diemeleinzugsgebiet
+50.9617716;6.2573323;2825349000100;Welz;Rureinzugsgebiet
+51.0013740;7.2782680;2728851100100;Welzen;Siegeinzugsgebiet Westlich
+51.2942617;8.1748931;2761695000100;Wenholthausen;Ruhreinzugsgebiet
+51.4923780;8.9140935;4433000000100;Westheim;Diemeleinzugsgebiet
+52.1429306;7.6617597;3345000000100;Westladbergen;Emseinzugsgebiet
+51.6663265;7.8669112;2786700000100;Westtuennen;Lippeeinzugsgebiet
+51.4008768;7.3418455;2769169000100;Wetter_Wengern_1;Ruhreinzugsgebiet
+52.2149477;7.3237457;9286291000300;Wettringen_B70;IJssel-, Berkel- und Vechteeinzugsgebiet
+51.2907415;8.5020361;2761137900100;Wiemeringhausen;Ruhreinzugsgebiet
+51.9026585;7.7821594;3289100000100;Wolbeck;Emseinzugsgebiet
+50.6927119;6.4525361;2823500000100;Zerkall;Rureinzugsgebiet
