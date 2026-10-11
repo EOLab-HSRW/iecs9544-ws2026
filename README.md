@@ -54,26 +54,26 @@ Each session lists the competences it introduces or practices. The competence ta
 
 | # | Date | Topic | Competences | Homework / milestone | Material |
 |---|---|---|---|---|---|
-| 1 | 2026-10-05 | Kickoff and first pipeline: DWD station list from the web, pandas, GeoPandas, GeoPackage, web map. JupyterHub and git. | Introduced: C1.2, C2.1, C3.1, C3.2, C7.1 | Filter stations by state, status and start year; annotated map | [s01_2026-10-05](s01_2026-10-05/): geo0641_DWD_Station_Pipeline.ipynb |
-| 2 | 2026-10-12 | Coordinate reference systems in code (pyproj, reprojection, distance errors) and georeferencing | Practiced: C1.1, C5.1<br>Introduced: C2.2, C3.1 | Georeference the Castra Vetera map | [s02_2026-10-12](s02_2026-10-12/): geo0160_Data_Models_Formats.pdf, geo0160_Data_Models_Formats.pptx, geo0220_CRS_Projections.pdf, geo0220_CRS_Projections.pptx, geo0221_CRS_in_Code.ipynb, geo0223_CRS_Mystery_DWD.md, geo0240_Georeferencing_Castra_Vetera.pdf, geo0240_Georeferencing_Castra_Vetera.pptx, geo0241_Georeferencing_Castra_Vetera.md, geo0241_Georeferencing_Castra_Vetera.qgz |
-| 3 | 2026-10-19 | GNSS and RTK positioning (Emlid, SAPOS), accuracy, flight planning, ground control points | Practiced: C1.1, C2.1<br>Introduced: C4.1, C5.1 | Mission plan | – |
-| 4 | 2026-10-26 | Drone field day at Frohnenbruchhof: thermal and multispectral flights, ground control points | Practiced: C4.1, C5.1 | Organise the data and write a metadata log | – |
-| 5 | 2026-11-02 | NRW elevation data I: scraping tile lists, bounding boxes, automated download; start of the drone image processing | Practiced: C2.1, C3.1, C3.2 | Download your own tile set | – |
-| 6 | 2026-11-09 | Rasters in Python: mosaics, hillshade, windowed reads; OGC web services (WMS, WFS, WCS) with OWSLib | Practiced: C2.1, C3.1, C3.2 | Terrain profile or slope map | – |
-| 7 | 2026-11-16 | PostGIS fast track: geometries and SRID, spatial predicates, spatial joins, indexes, GeoPandas and PostGIS | Practiced: C2.2<br>Introduced: C3.1 | Spatial SQL exercises | – |
-| 8 | 2026-11-23 | Drone results: orthomosaic, surface model, point cloud; accuracy against RTK check points | Practiced: C4.1, C5.1 | One-page accuracy report | – |
-| 9 | 2026-11-30 | Groundwater data in PostGIS: from a flat CSV file to a normalized schema, cleaning, duplicates, fast loading | Practiced: C2.1, C2.2 | Your own substance subset; form project groups<br>**Project topics announced** | – |
-| 10 | 2026-12-07 | Spatio-temporal data: refactoring views, animation with the QGIS Temporal Controller, hourly precipitation, interpolation (IDW) and its limits | Practiced: C1.2, C2.1, C2.2, C3.1, C3.3, C5.1 | Temporal Controller video | – |
-| 11 | 2026-12-14 | Remote sensing: Sentinel-2 via STAC, vegetation indices, multispectral drone data | Practiced: C2.1, C4.1 | Write the project proposal<br>**Project proposal handed out (due 2027-01-04)** | – |
+| 1 | 2026-10-05 | Kickoff and first pipeline: DWD station list from the web, pandas, GeoPandas, GeoPackage, web map. JupyterHub and git. | Introduced: C1.2, C2.1, C3.1, C3.2, C7.1 | Filter stations by state, status and start year; annotated map | [s01_2026-10-05](s01_2026-10-05/)<br>geo0641_DWD_Station_Pipeline.ipynb |
+| 2 | 2026-10-12 | Data models and formats (self-study slides); coordinate reference systems in code (pyproj, reprojection, distance errors); georeferencing a historical map in QGIS (Castra Vetera) | Practised: C1.1, C5.1<br>Introduced: C2.2, C3.1 | Georeference the Castra Vetera map (QGIS project with WMS background maps; map images in Moodle); CRS mystery: identify the CRS of five DWD station files | [s02_2026-10-12](s02_2026-10-12/)<br>geo0160_Data_Models_Formats.pdf, geo0220_CRS_Projections.pdf, geo0221_CRS_in_Code.ipynb, geo0223_CRS_Mystery_DWD.md, geo0240_Georeferencing_Castra_Vetera.pdf, geo0241_Georeferencing_Castra_Vetera.md, geo0241_Georeferencing_Castra_Vetera.qgz |
+| 3 | 2026-10-19 | GNSS and RTK positioning (Emlid, SAPOS), accuracy, flight planning, ground control points; web map services (WMS) from Geobasis NRW in QGIS | Practised: C1.1, C2.1<br>Introduced: C4.1, C5.1 | Mission plan | – |
+| 4 | 2026-10-26 | Drone field day at Frohnenbruchhof: thermal and multispectral flights, ground control points | Practised: C4.1, C5.1 | Organise the data and write a metadata log | – |
+| 5 | 2026-11-02 | NRW elevation data I: scraping tile lists, bounding boxes, automated download; start of the drone image processing | Practised: C2.1, C3.1, C3.2 | Download your own tile set | – |
+| 6 | 2026-11-09 | Rasters in Python: mosaics, hillshade, windowed reads; OGC web services (WMS, WFS, WCS) with OWSLib | Practised: C2.1, C3.1, C3.2 | Terrain profile or slope map | – |
+| 7 | 2026-11-16 | PostGIS fast track: geometries and SRID, spatial predicates, spatial joins, indexes, GeoPandas and PostGIS | Practised: C2.2<br>Introduced: C3.1 | Spatial SQL exercises | – |
+| 8 | 2026-11-23 | Drone results: orthomosaic, surface model, point cloud; accuracy against RTK check points | Practised: C4.1, C5.1 | One-page accuracy report | – |
+| 9 | 2026-11-30 | Groundwater data in PostGIS: from a flat CSV file to a normalized schema, cleaning, duplicates, fast loading | Practised: C2.1, C2.2 | Your own substance subset; form project groups<br>**Project topics announced** | – |
+| 10 | 2026-12-07 | Spatio-temporal data: refactoring views, animation with the QGIS Temporal Controller, hourly precipitation, interpolation (IDW) and its limits | Practised: C1.2, C2.1, C2.2, C3.1, C3.3, C5.1 | Temporal Controller video | – |
+| 11 | 2026-12-14 | Remote sensing: Sentinel-2 via STAC, vegetation indices, multispectral drone data | Practised: C2.1, C4.1 | Write the project proposal<br>**Project proposal handed out (due 2027-01-04)** | – |
 | – | 2026-12-21, 2026-12-28 | *No session (Christmas break, to be confirmed)* | | | |
-| 12 | 2027-01-04 | Machine-learning land-use classification with random forests and accuracy assessment | Practiced: C4.2, C5.1 | Classify your own area<br>**Project proposal due** | – |
-| 13 | 2027-01-11 | Point clouds: tree height, volumes, structures | Practiced: C3.1<br>Introduced: C4.1 | Project work | – |
-| 14 | 2027-01-18 | Communication: cartography, QGIS layouts, web maps; project clinic | Practiced: C7.1 | Final project | – |
+| 12 | 2027-01-04 | Machine-learning land-use classification with random forests and accuracy assessment | Practised: C4.2, C5.1 | Classify your own area<br>**Project proposal due** | – |
+| 13 | 2027-01-11 | Point clouds: tree height, volumes, structures | Practised: C3.1<br>Introduced: C4.1 | Project work | – |
+| 14 | 2027-01-18 | Communication: cartography, QGIS layouts, web maps; project clinic | Practised: C7.1 | Final project | – |
 | 15 | 2027-01-25 | Interim presentations with peer feedback, course review, exam briefing | Assessed: C3.2, C5.1, C6.1, C7.1<br>Assessed if your topic uses them: C1.1, C1.2, C2.1, C2.2, C3.1, C3.3, C4.1, C4.2 | **Interim project presentations** | – |
 
 ### Competences: what you will be able to do
 
-| ID | You can ... | Outcome | Introduced | Practiced |
+| ID | You can ... | Outcome | Introduced | Practised |
 |---|---|---|---|---|
 | C1.1 | explain coordinate reference systems, georeferencing and GNSS/RTK positioning, and predict the effect of a wrong or mixed CRS on distances and overlays | LO1 | 2 | 2, 3 |
 | C1.2 | describe the characteristics of spatio-temporal environmental datasets (sampling, resolution, gaps, time series) and relate them to climate-change questions | LO1 | 1 | 10 |
