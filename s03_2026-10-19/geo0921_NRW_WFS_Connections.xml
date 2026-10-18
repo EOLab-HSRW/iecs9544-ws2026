@@ -1,0 +1,28 @@
+<!--Stand: 11.09.2025-->
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.0">
+	<wfs password="" referer="" username="" url="https://ogc-api.nrw.de/gebref" name="NW ALKIS Gebäudereferenzen OGC-API"/>
+	<wfs password="" referer="" username="" url="https://ogc-api.nrw.de/lika" name="NW ALKIS OGC-API"/>
+	<wfs password="" referer="" username="" url="https://ogc-api.nrw.de/3dg" name="NW 3D Gebäudemodelle OGC-API"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_atkis-basis-dlm_aaa-modell-basiert" name="NW ATKIS Basis-DLM"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_aaa-modell-basiert" name="NW Liegenschaftskataster NRW; ALKIS-AAA-Modell-basiert"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht" name="NW Liegenschaftskataster NRW; ALKIS-vereinfachtes Schema"/>
+    <wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_dvg" name="NW Topographische Sonderkarten; Verwaltungsgrenzen"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_bodenbewegungsgebiete_kacheln" name="NW Bodenbewegungsgebiete Kacheln"/>
+	<wfs password="" referer="" username="" url="https://ogc-api.nrw.de/tfis/v1" name="NW Touristik- und Freizeitinformationen NRW OGC-API"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_nas-konform" name="NW ALKIS NAS-konform"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_hl_hp" name="NW HL HP"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_hl_hp_aaa-modell-basiert" name="NW HL HP AAA-Modell-basiert"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_utm_kacheln" name="NW UTM Kacheln"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-adressen_gebref" name="INSPIRE-WFS NW Adressen Gebäudereferenzen"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-bodenbedeckungsvektor_alkis" name="INSPIRE-WFS NW Bodenbedeckungsvektor ALKIS "/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-existierende-bodennutzung_alkis" name="INSPIRE-WFS NW Existierende Bodennutzung ALKIS"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-flurstuecke_alkis" name="INSPIRE-WFS NW Flurstücke/Grundstücke ALKIS"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-gebaeude-2d_alkis" name="INSPIRE-WFS NW Gebäude – 2D ALKIS"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-geografische-bezeichnungen_alkis" name="INSPIRE-WFS NW Geografische Bezeichnungen ALKIS"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-geografische-bezeichnungen_atkis-basis-dlm" name="INSPIRE-WFS NW Geografische Bezeichnungen ATKIS Basis-DLM"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-gewaesser-physisch_atkis-basis-dlm" name="INSPIRE-WFS NW Hydro - Physische Gewässer ATKIS Basis-DLM"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-gewaesser-netzwerk_atkis-basis-dlm" name="INSPIRE-WFS NW Hydro - Netzwerk ATKIS Basis-DLM"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-verkehrsnetze_atkis-basis-dlm" name="INSPIRE-WFS NW Verkehrsnetze ATKIS Basis-DLM"/>
+	<wfs password="" referer="" username="" url="https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-verwaltungseinheiten_atkis-basis-dlm" name="INSPIRE-WFS NW Verwaltungseinheiten ATKIS Basis-DLM"/>
+</qgsWFSConnections>

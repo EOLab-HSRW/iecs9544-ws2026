@@ -12,15 +12,19 @@ Learn how to georeference a photographed map, or any image with identifiable fea
 | `geo0241_DTK25_4304_Xanten_1998_Geodetic_Basis.jpg`, `…_Publisher.jpg` | cover and legend: map series, publisher, edition, geodetic basis, coordinates |
 | `geo0241_DTK25_4304_Xanten_1998_Corner_SW.jpg` | south-west corner of the sheet: the numbers in the map margin |
 | `geo0241_DTK25_4304_Xanten_1998_Fuerstenberg.jpg` | detail around the Fürstenberg – **the photo you georeference** |
-| `geo0241_DTK25_4304_Fuerstenberg_Notations.pdf` / `.jpg` | the same detail with the UTM grid crossings circled and numbered (row, column) |
-| `geo0241_Vetera_I_Reconstruction.png`, `geo0241_Vetera_I_Floor_Plan.jpg` | reconstruction drawing and partial floor plan of Vetera I (© Dr. Frank Dießenbacher) |
+| `geo0241_DTK25_4304_Fuerstenberg_Notations.pdf` / `.jpg` | the same detail with the UTM grid crossings circled and numbered (i, j): i = column from the west, j = row from the south, (1,1) = lower left |
+| `geo0241_Vetera_I_Reconstruction.png` | reconstruction drawing of Vetera I (Dr. Frank Dießenbacher) |
 
-The images are not openly licensed: you get them from the course platform (folder *geo0241*), not from the public repository. Put them into `data/` of this session folder.
+All images are in `data/` of this session folder and are openly licensed:
+- map photos TK25 4304 Xanten (1998): © Geobasis NRW, Datenlizenz Deutschland – Zero – Version 2.0 (dl-de/zero-2-0);
+- reconstruction drawing: Dr. Frank Dießenbacher, Dießenbacher Informationsmedien, Xanten (www.diessenbacher.com), CC BY 4.0.
+
+Keep these credits in your report and maps. A partial floor plan of the fortress is held back until the rights are cleared (request to the LVR is pending); the tasks do not need it.
 
 ## Task
 1. **Investigate the map** (sheet, cover and legend photos): type of map and scale, publisher, edition and year, geodetic datum and projection of the map content. Which coordinate grids are printed, and in which CRS?
 2. **Read the map margin** (`…_Corner_SW.jpg`): which lines belong to the UTM grid? What do the numbers mean, including the small raised digits? What is the interval between two grid lines, in km and in cm on the map?
-3. **Georeference the map photo** (*Layer → Georeferencer…*, target CRS **EPSG:25832**). Use the UTM grid crossings as control points (GCPs). The circles in the Notations file number them (row, column), so everybody talks about the same points. Determine (E, N) of each crossing in metres from the margin numbers. Use at least 12 crossings spread over the whole photo (all 30 are better).
+3. **Georeference the map photo** (*Layer → Georeferencer…*, target CRS **EPSG:25832**). Use the UTM grid crossings as control points (GCPs). The circles in the Notations file number them (i, j): i counts the columns from the west, j the rows from the south, so (1,1) is the lower left crossing with the smallest E and N. Everybody talks about the same points. Determine (E, N) of each crossing in metres from the blue margin numbers (the slides show crossing (1,1) as a worked example). Use at least 12 crossings spread over the whole photo (all 30 are better).
 4. Compare *Helmert*, *Polynomial 1*, *Projective* and *Polynomial 2*: note the RMS error, look at the residuals, and switch 3–5 GCPs off as check points. Which transformation do you choose and why? Save the GCPs (*Save GCP Points As…*, `.points`).
 5. **Mark the location of Castra Vetera:** the 1998 map shows its approximate location (label and *KD*, cultural monument). Digitise this area as a polygon in a GeoPackage `castra_vetera.gpkg` (EPSG:25832). Compare with today's DTK (WMS) at 1:25 000 and zoomed in: what is still shown today?
 6. **Read the DTM hillshade:** switch on *DTM hillshade (NRW, WMS)*. Which pronounced features does it show around your polygon? Describe them. Which of them do you find on the 1998 map, which on today's DTK?

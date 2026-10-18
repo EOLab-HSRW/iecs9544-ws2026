@@ -1,0 +1,24 @@
+<!--Stand: 11.09.2025-->
+<!DOCTYPE connections>
+<qgsWCSConnections version="1.0">
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_abk" name="NW Liegenschaftskataster NRW; Amtliche Basiskarte (ABK)"/>
+	<wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_hist_abk" name="NW Liegenschaftskataster NRW; Historische Amtliche Basiskarte (HIST ABK)"/>
+	<wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_alkis" name="NW Liegenschaftskataster NRW; ALKIS"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dgk5" name="NW Deutsche Grundkarte 1:5.000 (DGK5)"/>
+	<wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dom" name="NW Digitales Oberflächenmodell 1 (DOM1)"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dop" name="NW Digitale Orthophotos (DOP)"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_hist_dop" name="NW Historische Digitale Orthophotos (HIST DOP)"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_idop" name="NW InVeKoS Digitale Orthophotos (iDOP)"/>
+	<wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dop_hw21" name="NW Digitale Orthophotos Hochwasser 2021"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dtk10" name="NW Digitale Topographische Karten; DTK10"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dtk100" name="NW Digitale Topographische Karten; DTK100"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dtk25" name="NW Digitale Topographische Karten; DTK25"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dtk50" name="NW Digitale Topographische Karten; DTK50"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dgm" name="NW Digitales Geländemodell (DGM); Höhenmodell des Landes NRW"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_dgm-schummerung" name="NW Digitales Geländemodell – Schummerung (DGM-Schummerung)"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_gelaendeneigung" name="NW Digitales Geländemodell – Geländeneigung"/>
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_gelaendestufen" name="NW Digitales Geländemodell – Geländestufen"/>	
+    <wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_hoehenschichten" name="NW Digitales Geländemodell – Höhenschichten"/>
+	<wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_ndom" name="NW Normalisiertes Digitales Oberflächenmodell"/>
+	<wcs password="" username="" url="https://www.wcs.nrw.de/geobasis/wcs_nw_tdom" name="NW Temporales Digitales Oberflächenmodell 50 (TDOM)"/>
+</qgsWCSConnections>
