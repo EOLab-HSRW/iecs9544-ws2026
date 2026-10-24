@@ -352,7 +352,7 @@ def elevation(sat, X):
     return np.degrees(np.arcsin((los @ up) / np.linalg.norm(los, axis=1)))
 
 
-def synthetic(orbits, lon=6.548, lat=51.493, h=80.0, errors=None, base=None, seed=1, mask=0.0):
+def synthetic(orbits, lon=6.548834, lat=51.498069, h=72.0, errors=None, base=None, seed=1, mask=0.0):
     """Artificial pseudoranges on real orbits.
     orbits: a geo0264 table (satellite positions and clocks are reused, its pseudoranges are not).
     errors: dict overriding ERRORS; base: optional (lon, lat, h) of a second, 'reference' point that

@@ -28,6 +28,17 @@ Start with `"sapos"`, then try `"synthetic"` to see which correction removes whi
 
 The columns are explained in the notebook (§2.1).
 
+## How the solver works (in short)
+Each pseudorange is ρ = r + b: the geometric range r from the receiver to the satellite plus the receiver clock error b = c·δt, in metres. The unknowns are X, Y, Z and b. The range r is not linear in the position, so the solver works in small steps:
+
+1. Start with a guess: the Earth's centre, b = 0.
+2. Compute the ranges r from the guess to all satellites and the residuals ρ − (r + b), "observed minus computed".
+3. Linearise: a small shift of the receiver changes each range by the shift projected onto the line of sight (the unit vector from the satellite to the receiver); a change of b changes all ranges by the same amount. One row per satellite gives the design matrix A.
+4. Solve A · Δ = residuals for the corrections Δ by least squares (more satellites than unknowns, and noisy ranges).
+5. Add the corrections and repeat until they are smaller than a millimetre (Gauss–Newton; usually 4–6 iterations).
+
+The notebook (§1.2) derives each step; the slide *Try it: a position from pseudoranges* shows the same loop in ten lines of Python. Because b appears with the same weight in every equation, any error common to all satellites ends up in b and not in the position.
+
 ## Tasks
 1. **Warm-up (§1):** write `solve_position(sat, rho)`, a least-squares solver with four unknowns (X, Y, Z, receiver clock). Test it with invented pseudoranges on real orbits; change the clock error, the noise, the number of satellites and the geometry, and explain what happens.
 2. **Your data source (§2):** solve one epoch and express the error in east, north and up.
