@@ -56,21 +56,8 @@ Then discuss:
 - Which three additions would you take into the short version first, and why?
 - The long version is harder to read. Who pays for that, and when is it worth it?
 
-## 5. The same as a QGIS plugin: DGM1 NRW Tile Downloader
-The long script, turned into a plugin: menu and toolbar buttons instead of the console, and the download runs in the background (QGIS stays usable, progress and a cancel button in the status bar). How a script becomes a plugin is shown in class.
-
-**Install (once):**
-1. The file `dgm1_nrw_tiles.zip` is in this session folder. **Do not unzip it**: QGIS needs the zip itself. (If you downloaded the whole Moodle folder as a zip, unzip that one, but leave `dgm1_nrw_tiles.zip` inside as it is.)
-2. QGIS: *Plugins → Manage and Install Plugins… → Install from ZIP* → `…` → choose `dgm1_nrw_tiles.zip` → *Install Plugin*. Confirm the warning about plugins from outside the official repository (*Yes*): you install code from your course, not from the QGIS plugin repository.
-3. The plugin appears under *Plugins → DGM1 NRW Tile Downloader* and as two toolbar buttons. If you do not see the buttons: *View → Toolbars → Plugins Toolbar*. Check that it is ticked in *Plugins → Manage and Install Plugins… → Installed*.
-
-**Use:**
-1. Open a project in your session folder (the plugin finds `<course folder>/data/`; otherwise it asks for a data folder once).
-2. Button **Load DGM1 tile index** (tiles, one selected): the index appears, coloured by survey year.
-3. Select tiles on **DGM1 tiles NRW** (at most 50), button **Download selected tiles** (tiles with red arrow). A VRT `dgm1_selection_<time>.vrt` is added when the download is done.
-4. Messages in detail: *View → Panels → Log Messages*, tab *DGM1 NRW*.
-
-**Update or remove:** install a newer zip the same way (it replaces the old version); remove it in *Manage and Install Plugins… → Installed → Uninstall Plugin*. Data and tiles stay in your data folder.
+## 5. The same as a QGIS plugin
+The long script also exists as a QGIS plugin (menu and toolbar buttons, download in the background): see geo0444, `geo0444_QGIS_Plugin_DGM1_NRW.md`.
 
 ## Check yourself
 - Select the six tiles of the Uedemer Hochwald (geo1041). Do you get the same files as from the geo0442 zip? Same survey years?
