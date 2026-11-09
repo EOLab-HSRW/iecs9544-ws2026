@@ -1,0 +1,2 @@
+flight_id,date,takeoff_local,landing_local,mission_type,height_agl_m,front_overlap_pct,side_overlap_pct,cameras,drone_rtk,gimbal_pitch_deg,photos_app,lines_app,line_spacing_app_m,flight_time_app_min,photos_on_card,battery_start_pct,battery_end_pct,wind,clouds_light,reflectance_panel,pilot,logger,folder,notes
+F1,,,,mapping,25,80,70,RGB+MS,on,-90,,,,,,,,,,before+after,,,F1_map25_all,
