@@ -1,0 +1,25 @@
+task,name,E_map,N_map,H_map,note
+F2c_exif,C1,329897.556,5708022.124,73.134,invented example
+F2c_exif,C2,329851.901,5708038.166,71.652,invented example
+F2c_exif,C3,329878.096,5708030.378,73.329,invented example
+F2c_exif_gcp,C1,329896.386,5708024.59,26.522,invented example
+F2c_exif_gcp,C2,329850.411,5708040.594,26.269,invented example
+F2c_exif_gcp,C3,329876.38,5708032.625,26.357,invented example
+F2c_ppk,C1,329896.4,5708024.606,26.544,invented example
+F2c_ppk,C2,329850.407,5708040.607,26.321,invented example
+F2c_ppk,C3,329876.397,5708032.614,26.446,invented example
+F2c_ppk_gcp,C1,329896.382,5708024.612,26.528,invented example
+F2c_ppk_gcp,C2,329850.396,5708040.634,26.247,invented example
+F2c_ppk_gcp,C3,329876.398,5708032.623,26.425,invented example
+F2b_rtk,C1,329896.402,5708024.617,26.566,invented example
+F2b_rtk,C2,329850.435,5708040.627,26.35,invented example
+F2b_rtk,C3,329876.406,5708032.622,26.462,invented example
+F2b_rtk_gcp,C1,329896.416,5708024.649,26.518,invented example
+F2b_rtk_gcp,C2,329850.379,5708040.634,26.246,invented example
+F2b_rtk_gcp,C3,329876.396,5708032.63,26.42,invented example
+F2a_rtk,C1,329896.426,5708024.62,26.498,invented example
+F2a_rtk,C2,329850.442,5708040.625,26.259,invented example
+F2a_rtk,C3,329876.386,5708032.65,26.379,invented example
+F2a_rtk_gcp,C1,329896.391,5708024.628,26.545,invented example
+F2a_rtk_gcp,C2,329850.382,5708040.636,26.293,invented example
+F2a_rtk_gcp,C3,329876.391,5708032.619,26.436,invented example
